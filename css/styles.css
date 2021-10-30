@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  color: #CCE0E0;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #CCE0E0;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  color: #CCE0E0;
+}
+
+/*classes*/
+.top-container {
+  background-color: #C3d6d6;
+}
+
+.cloud-sketch {
+  width: 500px;
+}
+
+.a-pro-grammer {
+  color: #66BFBF;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.im-jordan {
+  font-family: 'Pacifico', cursive;
+  color: #66BFBF;
+}
+
+.middle-container {
+  background-color: #2D5656;
+}
+
+.hello {
+  margin-top: 200px;
+  line-height: 2;
+}
+
+.helloparagraph {
+  padding-bottom: 200px;
+  line-height: 2;
+}
+
+.hr1 {
+  border: none;
+  border-top: 1px dotted #fff;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 50%;
+}
+
+.skills {
+  margin-top: 200px;
+}
+
+.myskills {
+  padding-bottom: 100px;
+}
+
+.hr2 {
+  border: none;
+  border-top: 1px dotted #fff;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 50%;
+}
+
+.code-img {
+  width: 100px;
+}
+
+.loremipsheader {
+  text-align: center;
+  line-height: 2;
+}
+
+.loremips {
+  text-align: center;
+  line-height: 2;
+}
+
+.loremdol {
+  margin-top: 200px;
+  line-height: 2;
+}
+
+.error404 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0;
+}
+
+.loremipsdol {
+  padding-bottom: 200px;
+  text-align: center;
+  line-height: 2;
+}
+
+.getintouch {
+  padding-top: 200px;
+  line-height: 2;
+}
+
+.lorem-sit {
+  line-height: 2;
+}
+
+.lorem-sit-para {
+  line-height: 2;
+}
+
+.BUTTON_ZGB {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -webkit-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  font-size: 40px;
+  font-weight: 500;
+  padding: 20px;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+.footer {
+  padding-top: 20px;
+}
+
+.bottom-container {
+  background-color: #2D5656;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Merriweather', sans-serif;
+  font-weight: bold;
+  margin: 100px 20px;
+}
+
+.copyrights {
+  padding-bottom: 10px;
+  margin: 10px;
+}
